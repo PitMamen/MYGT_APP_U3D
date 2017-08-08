@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripte\GameListProvider.cs">
+    <Files>
+      <File FileName="Assets\Scripte\GameListProvider.cs" Line="229" Column="89" />
+      <File FileName="Assets\Scripte\VideoMainListProvider.cs" Line="221" Column="38" />
+      <File FileName="Assets\Scripte\PanelSwitcher.cs" Line="288" Column="2" />
+      <File FileName="Assets\Scripte\GameInfo.cs" Line="21" Column="2" />
+      <File FileName="Assets\Scripte\VideoInfo.cs" Line="40" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\unity3d_5.6_workspace\My_DaydreamController\Assets\Scripte\PanelSwitcher.cs" line="215" column="1" />
+      <Breakpoint file="D:\unity3d_5.6_workspace\My_DaydreamController\Assets\Scripte\PanelSwitcher.cs" line="237" column="1" />
+      <Breakpoint file="D:\unity3d_5.6_workspace\My_DaydreamController\Assets\Scripte\PanelSwitcher.cs" line="260" column="1" />
+      <Breakpoint file="D:\unity3d_5.6_workspace\My_DaydreamController\Assets\Scripte\PanelSwitcher.cs" line="284" column="1" />
+      <Breakpoint file="D:\unity3d_5.6_workspace\My_DaydreamController\Assets\Scripte\PanelSwitcher.cs" line="307" column="1" />
+      <Breakpoint file="D:\unity3d_5.6_workspace\My_DaydreamController\Assets\Scripte\PanelSwitcher.cs" line="338" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
